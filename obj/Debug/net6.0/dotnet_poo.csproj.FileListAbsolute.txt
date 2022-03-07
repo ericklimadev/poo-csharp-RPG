@@ -1,0 +1,15 @@
+/home/erick/Documentos/Projetos/dotnet_poo/bin/Debug/net6.0/dotnet_poo
+/home/erick/Documentos/Projetos/dotnet_poo/bin/Debug/net6.0/dotnet_poo.deps.json
+/home/erick/Documentos/Projetos/dotnet_poo/bin/Debug/net6.0/dotnet_poo.runtimeconfig.json
+/home/erick/Documentos/Projetos/dotnet_poo/bin/Debug/net6.0/dotnet_poo.dll
+/home/erick/Documentos/Projetos/dotnet_poo/bin/Debug/net6.0/ref/dotnet_poo.dll
+/home/erick/Documentos/Projetos/dotnet_poo/bin/Debug/net6.0/dotnet_poo.pdb
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/dotnet_poo.csproj.AssemblyReference.cache
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/dotnet_poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/dotnet_poo.AssemblyInfoInputs.cache
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/dotnet_poo.AssemblyInfo.cs
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/dotnet_poo.csproj.CoreCompileInputs.cache
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/dotnet_poo.dll
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/ref/dotnet_poo.dll
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/dotnet_poo.pdb
+/home/erick/Documentos/Projetos/dotnet_poo/obj/Debug/net6.0/dotnet_poo.genruntimeconfig.cache
